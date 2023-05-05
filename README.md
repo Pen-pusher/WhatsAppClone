@@ -22,4 +22,4 @@ Users are able to
 - Vue
 - Vuex
 -Typescript
-- [Firebase](https://firebase.google.com/) - For Backend (Authentication, Database, Hosting)
+-Firebase
