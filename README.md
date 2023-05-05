@@ -1,6 +1,5 @@
 # WhatsAppClone
-WhatsApp clone using  - MERN Stack And firebase
-## Overview
+Whatsapp Clone is a progressive web application that clones the whatsapp web, which is created for one-to-one messaging using VueJs, Vuex and TypeScript and Cloud Firestore.## Overview
 
 ### Things coverd in this built
 
@@ -19,7 +18,8 @@ Users are able to
 - SCSS (css preprocessor)
 - Flexbox
 - CSS Grid
-- [React](https://reactjs.org/) - JS library
-- [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
-
+-React
+- Vue
+- Vuex
+-Typescript
 - [Firebase](https://firebase.google.com/) - For Backend (Authentication, Database, Hosting)
